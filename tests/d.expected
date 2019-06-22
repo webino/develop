@@ -1,0 +1,7 @@
+%a%/develop/src/functions.php:%d%:
+array(2) {
+  [0] =>
+  string(1) "A"
+  [1] =>
+  string(1) "B"
+}
