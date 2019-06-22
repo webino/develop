@@ -1,6 +1,6 @@
 {
   "name": "webino/develop",
-  "description": "PHP applications development support.",
+  "description": "PHP projects development support.",
   "type": "library",
   "license": "BSD-3-Clause",
   "authors": [
