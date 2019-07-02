@@ -8,6 +8,8 @@
  * @license     BSD-3-Clause
  */
 
+namespace Webino;
+
 use Tracy\Debugger;
 use Webino\DevException;
 
